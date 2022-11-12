@@ -41,3 +41,6 @@ English (100%)
 
 ### OMDb API
 The <a target="_blank" rel="noopener noreferrer" href="https://www.omdbapi.com/">OMDb API</a> is a RESTful web service to obtain movie information, all content and images on the site are contributed and maintained by OMDb API users.
+
+### Coming soon
+More features coming soon...

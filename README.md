@@ -15,14 +15,14 @@
     <li>
       <a href="#Features">Features</a>
       <ul>
-        <li><a href="#movie">Movie searching</a></li>
-        <li><a href="#comingsoon">Coming soon...</a></li>
+        <li><a href="#Movie searching">Movie searching</a></li>
+        <li><a href="#Coming soon">Coming soon...</a></li>
       </ul>
     </li>
     <li>
       <a href="#API">API</a>
       <ul>
-        <li><a href="#omdbapi">OMDb API</a></li>
+        <li><a href="#OMDb API">OMDb API</a></li>
       </ul>
     </li>
   </ul>
@@ -39,8 +39,15 @@ English (100%)
 <!-- Features -->
 ## Features
 
-### OMDb API
-The <a target="_blank" rel="noopener noreferrer" href="https://www.omdbapi.com/">OMDb API</a> is a RESTful web service to obtain movie information, all content and images on the site are contributed and maintained by OMDb API users.
+## Movie searching
+Movie searching using OMDb API.
 
 ### Coming soon
 More features coming soon...
+
+
+<!-- API -->
+## API
+
+### OMDb API
+The <a target="_blank" rel="noopener noreferrer" href="https://www.omdbapi.com/">OMDb API</a> is a RESTful web service to obtain movie information, all content and images on the site are contributed and maintained by OMDb API users.

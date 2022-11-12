@@ -7,7 +7,7 @@
   <summary>Table of Contents</summary>
   <ul>
     <li>
-      <a href="#languages">Languages supported</a>
+      <a href="#languages-supported">Languages supported</a>
       <ul>
         <li><a href="#English">English</a></li>
       </ul>

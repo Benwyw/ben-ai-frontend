@@ -13,16 +13,16 @@
       </ul>
     </li>
     <li>
-      <a href="#Features">Features</a>
+      <a href="#features">Features</a>
       <ul>
-        <li><a href="#Movie searching">Movie searching</a></li>
-        <li><a href="#Coming soon">Coming soon...</a></li>
+        <li><a href="#movie-searching">Movie searching</a></li>
+        <li><a href="#coming-soon">Coming soon...</a></li>
       </ul>
     </li>
     <li>
-      <a href="#API">API</a>
+      <a href="#api">API</a>
       <ul>
-        <li><a href="#OMDb API">OMDb API</a></li>
+        <li><a href="#omdb-api">OMDb API</a></li>
       </ul>
     </li>
   </ul>

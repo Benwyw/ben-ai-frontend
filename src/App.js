@@ -1,28 +1,19 @@
-import logo from './logo.svg';
+import { useState, useEffect } from 'react';
 import './App.css';
 
-function App() {
+
+const App = () => {
+  const [counter, setCounter] = useState(0);
+
+  useEffect(() => {
+    alert("You've changed the counter to " + counter)
+  }, [counter])
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Frontend is currently <code>in development</code> .
-        </p>
-        <a
-          className="App-link"
-          href="https://www.benwyw.com"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Outdated site
-        </a>
-        <ul>
-          <li>Testing</li>
-          <li>1 2 3</li>
-          <li>Testing</li>
-        </ul>
-      </header>
+      <button onClick={() => setCounter((prevCount) => prevCount -1)}>-</button>
+      <h1>{counter}</h1>
+      <button onClick={() => setCounter((prevCount) => prevCount +1)}>+</button>
     </div>
   );
 }
